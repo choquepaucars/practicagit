@@ -1,1 +1,4 @@
 Practicando uso de git y github
+Comando de git para cambiar el nombre de la rama
+$ git branch -M <nombreacambiar>
+
