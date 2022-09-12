@@ -1,4 +1,8 @@
 Practicando uso de git y github
+
 Comando de git para cambiar el nombre de la rama
 $ git branch -M <nombreacambiar>
+
+Para concectar un respositorio de github con local con SSH
+$ git remote set-url origin URL
 
